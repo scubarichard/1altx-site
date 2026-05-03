@@ -1,0 +1,162 @@
+[
+  {
+    "id": "01",
+    "title": "HubSpot to ActiveCampaign Automation",
+    "desc": "AI-powered deal routing syncs leads between HubSpot and ActiveCampaign based on email engagement and deal stage — zero manual work.",
+    "tools": ["n8n", "HubSpot", "ActiveCampaign"],
+    "youtube_id": "0M-2sL-I8Rg",
+    "youtube_url": "https://youtu.be/0M-2sL-I8Rg",
+    "status": "published"
+  },
+  {
+    "id": "02",
+    "title": "Pipedrive to Zendesk CRM-to-Support Sync",
+    "desc": "Contacts and organizations created in Zendesk instantly when a deal changes stage. No copy-paste, no missed handoffs.",
+    "tools": ["Make.com", "Pipedrive", "Zendesk"],
+    "youtube_id": "QMdWT1hwBR8",
+    "youtube_url": "https://youtu.be/QMdWT1hwBR8",
+    "status": "published"
+  },
+  {
+    "id": "03",
+    "title": "Close CRM to ClickUp Client Onboarding",
+    "desc": "Automatically create ClickUp tasks and client records when a deal closes in Close CRM — no manual project setup.",
+    "tools": ["Make.com", "Close CRM", "ClickUp"],
+    "youtube_id": "7CRlpZJKAsA",
+    "youtube_url": "https://youtu.be/7CRlpZJKAsA",
+    "status": "published"
+  },
+  {
+    "id": "04",
+    "title": "AI Email Parser & Auto-Reply",
+    "desc": "AI parses incoming emails, extracts structured data, sends smart auto-replies, and logs everything to Google Sheets — fully hands-free.",
+    "tools": ["Gmail", "Make.com", "GPT/OpenAI", "Google Sheets"],
+    "youtube_id": "d7KEaLEeOnI",
+    "youtube_url": "https://youtu.be/d7KEaLEeOnI",
+    "status": "published"
+  },
+  {
+    "id": "05",
+    "title": "Close CRM to GoHighLevel & Encharge Tag Sync",
+    "desc": "Sync contact tags between Close CRM, GoHighLevel, and Encharge. Leads created, tagged, and enrolled in sequences the moment they enter your CRM.",
+    "tools": ["Make.com", "Close CRM", "GoHighLevel", "Encharge"],
+    "youtube_id": "UiouXMxldbY",
+    "youtube_url": "https://youtu.be/UiouXMxldbY",
+    "status": "published"
+  },
+  {
+    "id": "06",
+    "title": "AI Concierge with CRM Memory",
+    "desc": "24/7 AI assistant that remembers full conversation history, qualifies leads by intent, and syncs every interaction to your CRM.",
+    "tools": ["n8n", "ManyChat", "OpenAI", "WhatsApp", "Airtable"],
+    "youtube_id": "E6St0IdSwq8",
+    "youtube_url": "https://youtu.be/E6St0IdSwq8",
+    "status": "published"
+  },
+  {
+    "id": "07",
+    "title": "Web Directory Scraper & Lead Enricher",
+    "desc": "Automatically scrape online employee directories across all pages, extract structured contact data, and export to Google Sheets for outreach.",
+    "tools": ["n8n"],
+    "youtube_id": "_y2dQW4W_1A",
+    "youtube_url": "https://youtu.be/_y2dQW4W_1A",
+    "status": "published"
+  },
+  {
+    "id": "08",
+    "title": "Google Sheets to DocuSeal Bulk E-Signature",
+    "desc": "Send hundreds of signature requests in minutes. Auto-fills PDF forms from spreadsheet data and routes them for digital signing.",
+    "tools": ["Make.com", "Google Sheets", "DocuSeal"],
+    "youtube_id": "Z2TdaxemEFQ",
+    "youtube_url": "https://youtu.be/Z2TdaxemEFQ",
+    "status": "published"
+  },
+  {
+    "id": "09",
+    "title": "Automated PDF Form Filler",
+    "desc": "Fill PDF forms from Google Sheets data and send for e-signature. Process hundreds of contracts without touching a single file manually.",
+    "tools": ["Make.com", "DocuSeal", "Google Sheets"],
+    "youtube_id": "f-1CO9zofi4",
+    "youtube_url": "https://youtu.be/f-1CO9zofi4",
+    "status": "published"
+  },
+  {
+    "id": "10",
+    "title": "Receipt Scanning & Expense Automation",
+    "desc": "Automate employee receipt submission end-to-end. AI extracts vendor and date, auto-organizes files in Google Drive for instant expense reports.",
+    "tools": ["Make.com", "Google Drive", "Google Sheets"],
+    "youtube_id": "04r6V5miEDs",
+    "youtube_url": "https://youtu.be/04r6V5miEDs",
+    "status": "published"
+  },
+  {
+    "id": "11",
+    "title": "GoHighLevel Sales & Onboarding Pipelines",
+    "desc": "Dual pipelines with stage-based automations — proposal follow-ups, SMS/email sequencing, internal tasks, and dashboard reporting.",
+    "tools": ["GoHighLevel", "Email Automation", "SMS Automation"],
+    "status": "pending"
+  },
+  {
+    "id": "12",
+    "title": "CRM to Production Sync with Guardrails",
+    "desc": "Deal stage triggers production record creation with margin validation, labor budget caps, change order bidirectional sync, and dashboards.",
+    "tools": ["Make.com", "GoHighLevel", "ClickUp", "Slack"],
+    "status": "pending"
+  },
+  {
+    "id": "13",
+    "title": "Call Accounting Webhook Logger",
+    "desc": "Ingests dialer webhook events, checks for duplicates, tags them, and logs structured call activity to Google Sheets.",
+    "tools": ["Make.com", "Webhooks", "Google Sheets"],
+    "status": "pending"
+  },
+  {
+    "id": "14",
+    "title": "AI Blog Post Generator",
+    "desc": "Form or Sheet input to polished long-form blog post. Iterates recursively up to 8 times per paragraph for clarity and human-sounding output.",
+    "tools": ["Make.com", "GPT/OpenAI", "Google Sheets"],
+    "status": "pending"
+  },
+  {
+    "id": "15",
+    "title": "CSV Export to Sheet Reconciler",
+    "desc": "Export, transform with RegEx via Google AppScript, and sync back to Sheets. Eliminates manual reconciliation across platforms.",
+    "tools": ["Make.com", "Google Sheets", "Google AppScript"],
+    "status": "pending"
+  },
+  {
+    "id": "16",
+    "title": "Close CRM to AgencyHandy Client Onboarding",
+    "desc": "Deal won in Close CRM triggers client record creation in AgencyHandy. Tasks and next steps sync as deals move through CRM stages.",
+    "tools": ["Make.com", "Close CRM", "AgencyHandy"],
+    "status": "pending"
+  },
+  {
+    "id": "17",
+    "title": "Shopify Top-Sellers Collection Builder",
+    "desc": "Downloads Shopify sales for the last 30 days and automatically updates a collection for top-selling products — no manual merchandising.",
+    "tools": ["Make.com", "Shopify"],
+    "status": "pending"
+  },
+  {
+    "id": "18",
+    "title": "Shopify Matrixify Bulk Update Pipeline",
+    "desc": "Export product data via Matrixify, enrich based on rules and lookup tables, and import updates back. Saves hours on bulk product management.",
+    "tools": ["Matrixify", "Make.com", "Google Sheets", "Shopify"],
+    "status": "pending"
+  },
+  {
+    "id": "19",
+    "title": "MSP Ticket Data Extractor",
+    "desc": "Connects to ConnectWise, extracts structured ticket data to Google Sheets for AI analysis, RAG ingestion, or knowledge base building.",
+    "tools": ["ConnectWise", "n8n", "Google Sheets"],
+    "status": "pending"
+  },
+  {
+    "id": "20",
+    "title": "Smart Email Intake & Logger",
+    "desc": "Gmail label watcher uses GPT to extract structured data fields from every email, logs to Google Sheets for enrichment or order entry workflows.",
+    "tools": ["Gmail", "Make.com", "GPT/OpenAI", "Google Sheets"],
+    "status": "pending"
+  }
+]
