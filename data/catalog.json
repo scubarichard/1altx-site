@@ -158,5 +158,12 @@
     "desc": "Gmail label watcher uses GPT to extract structured data fields from every email, logs to Google Sheets for enrichment or order entry workflows.",
     "tools": ["Gmail", "Make.com", "GPT/OpenAI", "Google Sheets"],
     "status": "pending"
+  },
+  {
+    "id": "21",
+    "title": "AI Demo Video Production Pipeline",
+    "desc": "Turn raw screen recordings into polished branded videos — AI avatar intro, auto-generated title cards, SEO-optimized YouTube publishing, and chapter markers. Zero manual editing.",
+    "tools": ["HeyGen", "ElevenLabs", "Python", "YouTube API", "n8n", "Google Sheets"],
+    "status": "pending"
   }
 ]
