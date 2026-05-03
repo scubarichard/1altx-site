@@ -162,7 +162,7 @@
   {
     "id": "21",
     "title": "AI Demo Video Production Pipeline",
-    "desc": "Turn raw screen recordings into polished branded videos — AI avatar intro, auto-generated title cards, SEO-optimized YouTube publishing, and chapter markers. Zero manual editing.",
+    "desc": "Raw screen recording in, polished branded video out. AI avatar intro and outro, title cards, narrated slideshow, SEO-optimized YouTube upload with chapter markers — all from a single command.",
     "tools": ["HeyGen", "ElevenLabs", "Python", "YouTube API", "n8n", "Google Sheets"],
     "status": "pending"
   }
