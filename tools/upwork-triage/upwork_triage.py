@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Upwork application sheet I/O for the upwork-reviewer subagent.
+Upwork application sheet I/O for the upwork-triage subagent.
 
 Setup (one-time):
   1. Create a Google Cloud service account, enable Sheets API, download JSON key.
@@ -12,12 +12,12 @@ Setup (one-time):
   4. pip install -r requirements.txt
 
 Usage:
-  upwork_review.py read 97-123                     # JSON of rows to stdout
-  upwork_review.py write < decisions.json          # write column W in batch
-  upwork_review.py write --dry-run < decisions.json
+  upwork_triage.py read 97-123                     # JSON of rows to stdout
+  upwork_triage.py write < decisions.json          # write column W in batch
+  upwork_triage.py write --dry-run < decisions.json
 
 decisions.json format:
-  [{"row": 97, "value": "🔥 Hot"}, {"row": 98, "value": "skip"}, ...]
+  [{"row": 97, "value": "ðŸ”¥ Hot"}, {"row": 98, "value": "skip"}, ...]
 """
 import argparse
 import json
