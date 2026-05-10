@@ -27,6 +27,6 @@ by reading the sheet through the Google Drive MCP and outputting the
 column W values for manual paste.
 
 **Process flow:** read sheet rows -> apply skip criteria + rubric ->
-write column W decisions back. The `sending to n8n` step (downstream
+write column W decisions back. The "sending to n8n" step (downstream
 proposal submission) is a SEPARATE process - triage stops at writing
 column W.
