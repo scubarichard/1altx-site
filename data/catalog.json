@@ -231,5 +231,28 @@
       "Google Sheets"
     ],
     "status": "pending"
+  },
+  {
+    "id": "31",
+    "title": "Make.com Pipeline Diagnostic for Regulated Firms",
+    "short_desc": "Structural audit of broken or inherited Make.com pipelines — compliance-aware, audit-first",
+    "summary": "A structured, read-only diagnostic engagement for RIAs, family offices, and accounting firms running Make.com pipelines they didn't build or can't explain. Delivers a diagnostic bible, risk inventory, remediation plan, walkthrough video, and handoff package. Phase 1 is a standalone fixed-price engagement at $2,500. Phased delivery — audit-first, rebuild only if approved.",
+    "tools": [
+      "Make.com",
+      "n8n",
+      "Diagnostic",
+      "Compliance"
+    ],
+    "source": "generated",
+    "status": "published",
+    "category": [
+      "diagnostic",
+      "compliance",
+      "make.com",
+      "regulated-firms"
+    ],
+    "project_id": "MAKECOM-DIAG-31",
+    "youtube_url": "https://youtu.be/XU9T_CXwI7A",
+    "youtube_id": "XU9T_CXwI7A"
   }
 ]
