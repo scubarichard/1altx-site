@@ -36,13 +36,14 @@ COLUMNS = {
     "N_status": 13,
     "O_notes": 14,
     "P_html": 15,
-    "W_priority": 22,
-    "X_jobfit": 23,
-    "Y_clientq": 24,
-    "Z_combined": 25,
-    "AH_scoring": 33,
+    "V_priority": 19,   # T = Priority Flag (Proposal+Video cols removed, shifted -2)
+    "W_jobfit": 20,     # U = Job Fit Score
+    "X_clientq": 21,    # V = Client Quality Score
+    "Y_combined": 22,   # W = Combined Score
+    "Z_richard": 23,    # X = Richard Fit Tag
+    "AH_scoring": 30,   # AE = Scoring Notes
 }
-LAST_COL_LETTER = "AL"  # column index 37
+LAST_COL_LETTER = "AN"  # column index 39 (Job ID is last column)
 
 
 def sheets_client():
@@ -127,7 +128,7 @@ def cmd_write(args):
         row = d["row"]
         value = d["value"]
         data.append({
-            "range": f"{tab}!W{row}",
+            "range": f"{tab}!T{row}",
             "values": [[value]],
         })
     if args.dry_run:
