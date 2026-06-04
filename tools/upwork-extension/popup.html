@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    body { font-family: sans-serif; width: 260px; padding: 12px; margin: 0; font-size: 13px; }
+    h3 { margin: 0 0 10px; font-size: 15px; }
+    .row { display: flex; justify-content: space-between; margin: 4px 0; }
+    .label { color: #555; }
+    .val { font-weight: 600; }
+    .note { margin-top: 10px; color: #888; font-size: 11px; }
+    #status { margin-top: 8px; padding: 6px 8px; border-radius: 4px; background: #f0f4ff; color: #2a52be; font-size: 12px; }
+  </style>
+</head>
+<body>
+  <h3>1AltX Upwork Feed</h3>
+  <div class="row"><span class="label">Jobs sent (session)</span><span class="val" id="sent">—</span></div>
+  <div class="row"><span class="label">IDs tracked</span><span class="val" id="tracked">—</span></div>
+  <div class="row"><span class="label">Last scan</span><span class="val" id="lastScan">—</span></div>
+  <div id="status">Open Best Matches to start scanning.</div>
+  <p class="note">Scans every 60s + on page changes. Posts new jobs to n8n.</p>
+  <script src="popup.js"></script>
+</body>
+</html>
