@@ -159,3 +159,24 @@ If Richard gives an explicit range ("triage rows 41-68") use that range and igno
 - Any "needs scrape" rows clearly called out.
 
 Keep prose tight. The user is the operator — they want decisions and reasons, not narration.
+
+## 07C cover-letter format (locked, 2026-06-06)
+
+The 07C n8n lane is patched to a locked output format. If anyone edits the live workflow in the UI, re-run the patch:
+```bash
+/home/richard/proposal-video-creator/.venv/bin/python3 /home/richard/1altx-site/tools/n8n-patches/patch_07c_locked_format.py
+```
+Then deactivate + reactivate the workflow so the webhook reloads the new code (see `tools/n8n-patches/README.md`).
+
+The locked structure (every cover letter must satisfy):
+1. **Line 1 video line** — `I recorded this specifically for your posting → <share.descript.com link>` (or `[PASTE VIDEO LINK]` placeholder when col AK is empty).
+2. **Line 2 hook** — one punchy sentence, no greeting, no client name.
+3. **Lines 3-5+ catalog samples** — 2 or 3 blocks of exactly 3 lines each: exact title from `data/catalog.json` → YouTube URL → one-sentence relevance. No "Service NN" labels, no renamed entries, no fabricated tools.
+4. **Solution approach** — 3-5 concrete sentences, generic framing.
+5. **Credentials block** — verbatim (Make.com Advanced Certified… 100% JSS Top Rated).
+6. **Close** — one of 5 job-type-specific closes; never "let's jump on a call".
+7. **Signature** — `– Richard\n1AltX LLC` (drop company line if post bars agencies).
+
+Validation results land in **col AL (TOS Check)**. `OK` means all gates passed; any failure is a semicolon-separated error list (e.g. `LINE1_NOT_VIDEO; OVER_5000_CHARS`). When monitoring 07C output, scan col AL for non-`OK` rows.
+
+If Richard wants to change the format, patch script first → bounce workflow → test against a row with a known share link.
