@@ -1,7 +1,7 @@
 [
   {
     "id": "01",
-    "title": "HubSpot â†’ ActiveCampaign Smart Deal Router",
+    "title": "HubSpot → ActiveCampaign Smart Deal Router",
     "desc": "Bi-directional sync with behavior-based deal stage updates",
     "tools": [
       "n8n",
@@ -21,7 +21,7 @@
   },
   {
     "id": "02",
-    "title": "Pipedrive â†’ Zendesk CRM-to-Support Sync",
+    "title": "Pipedrive → Zendesk CRM-to-Support Sync",
     "desc": "Deal closes â†’ auto-create org and contact in Zendesk",
     "tools": [
       "Make.com",
@@ -36,12 +36,12 @@
     "status": "published",
     "youtube_id": "QMdWT1hwBR8",
     "youtube_url": "https://youtu.be/QMdWT1hwBR8",
-    "short_desc": "Deal closes â†’ auto-create org and contact in Zendesk",
+    "short_desc": "Deal closes → auto-create org and contact in Zendesk",
     "descript_url": "https://share.descript.com/view/vaGxMaxD5iz"
   },
   {
     "id": "03",
-    "title": "Close â†’ ClickUp Client Creation",
+    "title": "Close → ClickUp Client Creation",
     "desc": "CRM deal won â†’ project tasks created automatically",
     "tools": [
       "Make.com",
@@ -55,7 +55,7 @@
     "status": "published",
     "youtube_id": "7CRlpZJKAsA",
     "youtube_url": "https://youtu.be/7CRlpZJKAsA",
-    "short_desc": "CRM deal won â†’ project tasks created automatically",
+    "short_desc": "CRM deal won → project tasks created automatically",
     "descript_url": "https://share.descript.com/view/ABKZceXd0Nb"
   },
   {
@@ -80,7 +80,7 @@
   },
   {
     "id": "05",
-    "title": "Close â†’ GHL â†’ Encharge Tag Sync",
+    "title": "Close → GHL → Encharge Tag Sync",
     "desc": "Lifecycle-driven tag management across three platforms",
     "tools": [
       "Make.com",
@@ -139,7 +139,7 @@
   },
   {
     "id": "08",
-    "title": "Google Sheets â†’ DocuSeal: Bulk Form Fill & E-Signature Routing",
+    "title": "Google Sheets → DocuSeal: Bulk Form Fill & E-Signature Routing",
     "desc": "Bulk form fill from Sheets + DocuSeal e-signature routing, fully automated",
     "tools": [
       "Google Sheets",
@@ -198,7 +198,7 @@
   },
   {
     "id": "12",
-    "title": "CRM â†’ Production Sync with Guardrails",
+    "title": "CRM → Production Sync with Guardrails",
     "desc": "Margin validation, labor tracking, change order sync",
     "tools": [
       "Make.com",
@@ -253,12 +253,12 @@
     "status": "published",
     "youtube_id": "4t_T_o1R1n0",
     "youtube_url": "https://youtu.be/4t_T_o1R1n0",
-    "short_desc": "Form or Sheet input â†’ polished long-form blog post",
+    "short_desc": "Form or Sheet input → polished long-form blog post",
     "descript_url": "https://share.descript.com/view/LTlgrCwvApn"
   },
   {
     "id": "15",
-    "title": "CSV Export â†’ AppScript â†’ Sheet Reconciler",
+    "title": "CSV Export → AppScript → Sheet Reconciler",
     "desc": "Export, transform with RegEx, and sync back to Sheets",
     "tools": [
       "Make.com",
@@ -279,7 +279,7 @@
   },
   {
     "id": "16",
-    "title": "Close â†’ AgencyHandy Client Onboarding",
+    "title": "Close → AgencyHandy Client Onboarding",
     "desc": "CRM deal won â†’ client record created in AgencyHandy",
     "tools": [
       "Make.com",
@@ -294,7 +294,7 @@
     "status": "published",
     "youtube_id": "trMfxDP4Tck",
     "youtube_url": "https://youtu.be/trMfxDP4Tck",
-    "short_desc": "CRM deal won â†’ client record created in AgencyHandy",
+    "short_desc": "CRM deal won → client record created in AgencyHandy",
     "descript_url": "https://share.descript.com/view/GHAniAOOOMi"
   },
   {
@@ -332,7 +332,7 @@
     "status": "published",
     "youtube_id": "1Vke_Md21bU",
     "youtube_url": "https://youtu.be/1Vke_Md21bU",
-    "short_desc": "Export â†’ enrich â†’ re-import Shopify product data at scale",
+    "short_desc": "Export → enrich → re-import Shopify product data at scale",
     "descript_url": "https://share.descript.com/view/bM7pKU2xDQb"
   },
   {
@@ -375,11 +375,11 @@
     "status": "published",
     "youtube_id": "QtWCM1f1Mm8",
     "youtube_url": "https://youtu.be/QtWCM1f1Mm8",
-    "short_desc": "Raw screen recording â†’ branded video â†’ auto-published to YouTube"
+    "short_desc": "Raw screen recording → branded video → auto-published to YouTube"
   },
   {
     "id": "22",
-    "title": "Signal-to-Sale: Call â†’ CRM Pipeline",
+    "title": "Signal-to-Sale: Call → CRM Pipeline",
     "desc": "Inbound call attributed, qualified, and pushed to CRM in under 60 seconds",
     "tools": [
       "n8n",
@@ -399,7 +399,7 @@
   },
   {
     "id": "23",
-    "title": "AI Content Pipeline: Idea â†’ Avatar Video",
+    "title": "AI Content Pipeline: Idea → Avatar Video",
     "desc": "Content brief in â†’ finished avatar video out, zero manual production steps",
     "tools": [
       "Make.com",
@@ -417,11 +417,11 @@
     "status": "published",
     "youtube_id": "rZ7q9-seSVY",
     "youtube_url": "https://youtu.be/rZ7q9-seSVY",
-    "short_desc": "Content brief in â†’ finished avatar video out, zero manual production steps"
+    "short_desc": "Content brief in → finished avatar video out, zero manual production steps"
   },
   {
     "id": "24",
-    "title": "Commission Reconciliation: Multi-Processor â†’ CRM",
+    "title": "Commission Reconciliation: Multi-Processor → CRM",
     "desc": "Heartland, Stripe, and Square payouts reconciled against CRM deals automatically",
     "tools": [
       "n8n",
@@ -477,7 +477,7 @@
     "status": "published",
     "youtube_id": "JHU-mV9QIw8",
     "youtube_url": "https://youtu.be/JHU-mV9QIw8",
-    "short_desc": "Inbox zero on autopilot â€” every email classified, routed, and actioned by AI"
+    "short_desc": "Inbox zero on autopilot — every email classified, routed, and actioned by AI"
   },
   {
     "id": "27",
@@ -537,7 +537,7 @@
     "status": "published",
     "youtube_id": "0FO0gTpvgEg",
     "youtube_url": "https://youtu.be/0FO0gTpvgEg",
-    "short_desc": "Translation job in â†’ qualified linguist matched and confirmed in under 5 minutes"
+    "short_desc": "Translation job in → qualified linguist matched and confirmed in under 5 minutes"
   },
   {
     "id": "30",
@@ -585,7 +585,7 @@
   {
     "id": "31",
     "title": "Make.com Pipeline Diagnostic for Regulated Firms",
-    "short_desc": "Structural audit of broken or inherited Make.com pipelines â€” compliance-aware, audit-first",
+    "short_desc": "Structural audit of broken or inherited Make.com pipelines — compliance-aware, audit-first",
     "tools": [
       "Make.com",
       "n8n",
