@@ -514,7 +514,7 @@
       "crm",
       "data"
     ],
-    "status": "unlisted",
+    "status": "published",
     "youtube_id": "2eX1yhjNC5k",
     "youtube_url": "https://youtu.be/2eX1yhjNC5k",
     "short_desc": "Bookings, guides, vehicles, and client comms unified in one automated hub"
@@ -618,6 +618,6 @@
       "compliance",
       "ops"
     ],
-    "status": "catalog_only"
+    "status": "catalog"
   }
 ]
