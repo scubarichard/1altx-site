@@ -513,5 +513,25 @@
     "status": "live_unlisted",
     "youtube_id": null,
     "youtube_url": null
+  },
+  {
+    "id": "dax-001",
+    "title": "DAX — AI Agent That Runs Inside Your Microsoft 365 Tenant",
+    "desc": "See DAX draft a compliant client review document in under 15 seconds — entirely inside the firm's own Microsoft 365 tenant. Every tool call logged. No data leaves.",
+    "tools": [
+      "Microsoft Copilot Studio",
+      "Azure",
+      "SharePoint",
+      "Purview",
+      "Entra ID"
+    ],
+    "category": [
+      "ria",
+      "compliance",
+      "ai"
+    ],
+    "status": "published",
+    "youtube_id": "91TocuhmnCc",
+    "youtube_url": "https://youtu.be/91TocuhmnCc"
   }
 ]
