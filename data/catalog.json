@@ -15,7 +15,9 @@
     ],
     "status": "published",
     "youtube_id": "0M-2sL-I8Rg",
-    "youtube_url": "https://youtu.be/0M-2sL-I8Rg"
+    "youtube_url": "https://youtu.be/0M-2sL-I8Rg",
+    "short_desc": "Bi-directional sync with behavior-based deal stage updates",
+    "descript_url": "https://share.descript.com/view/8XJLu8w3Y3h"
   },
   {
     "id": "02",
@@ -33,7 +35,9 @@
     ],
     "status": "published",
     "youtube_id": "QMdWT1hwBR8",
-    "youtube_url": "https://youtu.be/QMdWT1hwBR8"
+    "youtube_url": "https://youtu.be/QMdWT1hwBR8",
+    "short_desc": "Deal closes â†’ auto-create org and contact in Zendesk",
+    "descript_url": "https://share.descript.com/view/vaGxMaxD5iz"
   },
   {
     "id": "03",
@@ -50,7 +54,9 @@
     ],
     "status": "published",
     "youtube_id": "7CRlpZJKAsA",
-    "youtube_url": "https://youtu.be/7CRlpZJKAsA"
+    "youtube_url": "https://youtu.be/7CRlpZJKAsA",
+    "short_desc": "CRM deal won â†’ project tasks created automatically",
+    "descript_url": "https://share.descript.com/view/ABKZceXd0Nb"
   },
   {
     "id": "04",
@@ -68,7 +74,9 @@
     ],
     "status": "published",
     "youtube_id": "d7KEaLEeOnI",
-    "youtube_url": "https://youtu.be/d7KEaLEeOnI"
+    "youtube_url": "https://youtu.be/d7KEaLEeOnI",
+    "short_desc": "AI-based email classification and structured logging",
+    "descript_url": "https://share.descript.com/view/7pXYtY3rkS0"
   },
   {
     "id": "05",
@@ -86,7 +94,9 @@
     ],
     "status": "published",
     "youtube_id": "UiouXMxldbY",
-    "youtube_url": "https://youtu.be/UiouXMxldbY"
+    "youtube_url": "https://youtu.be/UiouXMxldbY",
+    "short_desc": "Lifecycle-driven tag management across three platforms",
+    "descript_url": "https://share.descript.com/view/D7otnYdLpJU"
   },
   {
     "id": "06",
@@ -106,7 +116,9 @@
     ],
     "status": "published",
     "youtube_id": "E6St0IdSwq8",
-    "youtube_url": "https://youtu.be/E6St0IdSwq8"
+    "youtube_url": "https://youtu.be/E6St0IdSwq8",
+    "short_desc": "WhatsApp/Instagram AI that remembers every conversation",
+    "descript_url": "https://share.descript.com/view/OV2HkbXZQtz"
   },
   {
     "id": "07",
@@ -121,7 +133,9 @@
     ],
     "status": "published",
     "youtube_id": "_y2dQW4W_1A",
-    "youtube_url": "https://youtu.be/_y2dQW4W_1A"
+    "youtube_url": "https://youtu.be/_y2dQW4W_1A",
+    "short_desc": "Scrape any public directory, dedupe, enrich, output CSV",
+    "descript_url": "https://share.descript.com/view/ah8EYyMf9i4"
   },
   {
     "id": "08",
@@ -140,7 +154,9 @@
     ],
     "status": "published",
     "youtube_id": "Z2TdaxemEFQ",
-    "youtube_url": "https://youtu.be/Z2TdaxemEFQ"
+    "youtube_url": "https://youtu.be/Z2TdaxemEFQ",
+    "short_desc": "Bulk form fill from Sheets + DocuSeal e-signature routing, fully automated",
+    "descript_url": "https://share.descript.com/view/FpwC1PVwVXD"
   },
   {
     "id": "10",
@@ -157,7 +173,9 @@
     ],
     "status": "published",
     "youtube_id": "04r6V5miEDs",
-    "youtube_url": "https://youtu.be/04r6V5miEDs"
+    "youtube_url": "https://youtu.be/04r6V5miEDs",
+    "short_desc": "Extract, categorize, and file receipts automatically",
+    "descript_url": "https://share.descript.com/view/PXEQP53oS9e"
   },
   {
     "id": "11",
@@ -172,9 +190,11 @@
       "crm",
       "ghl"
     ],
-    "status": "pending",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "6m7yMFifWxc",
+    "youtube_url": "https://youtu.be/6m7yMFifWxc",
+    "short_desc": "Dual pipelines with stage-based automations and reporting",
+    "descript_url": "https://share.descript.com/view/S3Ow5QHRUPn"
   },
   {
     "id": "12",
@@ -191,9 +211,11 @@
       "crm",
       "ops"
     ],
-    "status": "pending",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "h3GagY6fpKA",
+    "youtube_url": "https://youtu.be/h3GagY6fpKA",
+    "short_desc": "Margin validation, labor tracking, change order sync",
+    "descript_url": "https://share.descript.com/view/vcBCvfBxi8M"
   },
   {
     "id": "13",
@@ -210,7 +232,9 @@
     ],
     "status": "published",
     "youtube_id": "31RNyw4nfb8",
-    "youtube_url": "https://youtu.be/31RNyw4nfb8"
+    "youtube_url": "https://youtu.be/31RNyw4nfb8",
+    "short_desc": "Dialer webhook to Google Sheets with deduplication",
+    "descript_url": "https://share.descript.com/view/BBtAerH09Pw"
   },
   {
     "id": "14",
@@ -228,7 +252,9 @@
     ],
     "status": "published",
     "youtube_id": "4t_T_o1R1n0",
-    "youtube_url": "https://youtu.be/4t_T_o1R1n0"
+    "youtube_url": "https://youtu.be/4t_T_o1R1n0",
+    "short_desc": "Form or Sheet input â†’ polished long-form blog post",
+    "descript_url": "https://share.descript.com/view/LTlgrCwvApn"
   },
   {
     "id": "15",
@@ -245,9 +271,11 @@
       "data",
       "ops"
     ],
-    "status": "pending",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "4arMpxLG3JM",
+    "youtube_url": "https://youtu.be/4arMpxLG3JM",
+    "short_desc": "Export, transform with RegEx, and sync back to Sheets",
+    "descript_url": "https://share.descript.com/view/jd63cps0mFR"
   },
   {
     "id": "16",
@@ -265,7 +293,9 @@
     ],
     "status": "published",
     "youtube_id": "trMfxDP4Tck",
-    "youtube_url": "https://youtu.be/trMfxDP4Tck"
+    "youtube_url": "https://youtu.be/trMfxDP4Tck",
+    "short_desc": "CRM deal won â†’ client record created in AgencyHandy",
+    "descript_url": "https://share.descript.com/view/GHAniAOOOMi"
   },
   {
     "id": "17",
@@ -281,7 +311,9 @@
     ],
     "status": "published",
     "youtube_id": "P-a9B6ld37E",
-    "youtube_url": "https://youtu.be/P-a9B6ld37E"
+    "youtube_url": "https://youtu.be/P-a9B6ld37E",
+    "short_desc": "Auto-update collections based on last 30 days of sales",
+    "descript_url": "https://share.descript.com/view/pbww9DFL3rB"
   },
   {
     "id": "18",
@@ -299,7 +331,9 @@
     ],
     "status": "published",
     "youtube_id": "1Vke_Md21bU",
-    "youtube_url": "https://youtu.be/1Vke_Md21bU"
+    "youtube_url": "https://youtu.be/1Vke_Md21bU",
+    "short_desc": "Export â†’ enrich â†’ re-import Shopify product data at scale",
+    "descript_url": "https://share.descript.com/view/bM7pKU2xDQb"
   },
   {
     "id": "19",
@@ -315,9 +349,11 @@
       "data",
       "ai"
     ],
-    "status": "pending",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "A-R53Ph7MOk",
+    "youtube_url": "https://youtu.be/A-R53Ph7MOk",
+    "short_desc": "PSA ticket dump to spreadsheet for AI and reporting",
+    "descript_url": "https://share.descript.com/view/WVXVxNabluX"
   },
   {
     "id": "21",
@@ -338,7 +374,8 @@
     ],
     "status": "published",
     "youtube_id": "QtWCM1f1Mm8",
-    "youtube_url": "https://youtu.be/QtWCM1f1Mm8"
+    "youtube_url": "https://youtu.be/QtWCM1f1Mm8",
+    "short_desc": "Raw screen recording â†’ branded video â†’ auto-published to YouTube"
   },
   {
     "id": "22",
@@ -355,9 +392,10 @@
       "ai",
       "telephony"
     ],
-    "status": "live_unlisted",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "4QI_ed3eiNM",
+    "youtube_url": "https://youtu.be/4QI_ed3eiNM",
+    "short_desc": "Inbound call attributed, qualified, and pushed to CRM in under 60 seconds"
   },
   {
     "id": "23",
@@ -376,9 +414,10 @@
       "ai",
       "video"
     ],
-    "status": "live_unlisted",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "rZ7q9-seSVY",
+    "youtube_url": "https://youtu.be/rZ7q9-seSVY",
+    "short_desc": "Content brief in â†’ finished avatar video out, zero manual production steps"
   },
   {
     "id": "24",
@@ -395,9 +434,10 @@
       "crm",
       "data"
     ],
-    "status": "live_unlisted",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "cEgMJ1H3UZw",
+    "youtube_url": "https://youtu.be/cEgMJ1H3UZw",
+    "short_desc": "Heartland, Stripe, and Square payouts reconciled against CRM deals automatically"
   },
   {
     "id": "25",
@@ -414,9 +454,10 @@
       "ops",
       "ghl"
     ],
-    "status": "live_unlisted",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "wxb27kCR6dQ",
+    "youtube_url": "https://youtu.be/wxb27kCR6dQ",
+    "short_desc": "New GHL subaccount provisioned, snapshot loaded, and client notified in minutes"
   },
   {
     "id": "26",
@@ -433,9 +474,10 @@
       "ai",
       "ops"
     ],
-    "status": "live_unlisted",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "JHU-mV9QIw8",
+    "youtube_url": "https://youtu.be/JHU-mV9QIw8",
+    "short_desc": "Inbox zero on autopilot â€” every email classified, routed, and actioned by AI"
   },
   {
     "id": "27",
@@ -452,13 +494,14 @@
       "azure",
       "infrastructure"
     ],
-    "status": "live_unlisted",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "nrChbA2TLmA",
+    "youtube_url": "https://youtu.be/nrChbA2TLmA",
+    "short_desc": "Cowork delivered as a zero-install RemoteApp to any device via Azure AVD"
   },
   {
     "id": "28",
-    "title": "Tour Operations Central Brain",
+    "title": "Tour Operations Booking Hub",
     "desc": "Bookings, guides, vehicles, and client comms unified in one automated hub",
     "tools": [
       "n8n",
@@ -471,9 +514,10 @@
       "crm",
       "data"
     ],
-    "status": "live_unlisted",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "unlisted",
+    "youtube_id": "2eX1yhjNC5k",
+    "youtube_url": "https://youtu.be/2eX1yhjNC5k",
+    "short_desc": "Bookings, guides, vehicles, and client comms unified in one automated hub"
   },
   {
     "id": "29",
@@ -490,9 +534,10 @@
       "ai",
       "email"
     ],
-    "status": "live_unlisted",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "0FO0gTpvgEg",
+    "youtube_url": "https://youtu.be/0FO0gTpvgEg",
+    "short_desc": "Translation job in â†’ qualified linguist matched and confirmed in under 5 minutes"
   },
   {
     "id": "30",
@@ -510,29 +555,69 @@
       "azure",
       "infrastructure"
     ],
-    "status": "live_unlisted",
-    "youtube_id": null,
-    "youtube_url": null
+    "status": "published",
+    "youtube_id": "yZFJch7WkOg",
+    "youtube_url": "https://youtu.be/yZFJch7WkOg",
+    "short_desc": "Enterprise AI chat deployed on Azure with SSO, audit logs, and data isolation"
   },
   {
     "id": "dax-001",
-    "title": "DAX â€” AI Agent That Runs Inside Your Microsoft 365 Tenant",
+    "title": "DAX — AI Agent for Regulated Firms: Compliant Document Generation",
     "desc": "See DAX draft a compliant client review document in under 15 seconds â€” entirely inside the firm's own Microsoft 365 tenant. Every tool call logged. No data leaves.",
     "tools": [
       "Microsoft Copilot Studio",
-      "Azure",
+      "Azure OpenAI",
       "SharePoint",
-      "Purview",
+      "Microsoft Purview",
       "Entra ID"
     ],
     "category": [
       "ria",
       "compliance",
-      "ai"
+      "ai-workspace"
     ],
     "status": "published",
-    "youtube_id": "91TocuhmnCc",
-    "youtube_url": "https://youtu.be/91TocuhmnCc",
-    "descript_url": "https://share.descript.com/view/rgFDkixlxQP"
+    "youtube_id": "",
+    "youtube_url": "",
+    "descript_url": "https://share.descript.com/view/rgFDkixlxQP",
+    "short_desc": "DAX drafts a client review in under 15 seconds — Azure OpenAI inference, SharePoint output, Purview audit log, all inside the firm's own Microsoft 365 tenant"
+  },
+  {
+    "id": "31",
+    "title": "Make.com Pipeline Diagnostic for Regulated Firms",
+    "short_desc": "Structural audit of broken or inherited Make.com pipelines â€” compliance-aware, audit-first",
+    "tools": [
+      "Make.com",
+      "n8n",
+      "Diagnostic",
+      "Compliance"
+    ],
+    "category": [
+      "diagnostic",
+      "compliance",
+      "make.com",
+      "regulated-firms"
+    ],
+    "status": "published",
+    "youtube_id": "XU9T_CXwI7A",
+    "youtube_url": "https://youtu.be/XU9T_CXwI7A"
+  },
+  {
+    "id": "32",
+    "title": "Multi-System Tenant Audit & Drift Detection",
+    "short_desc": "Automated audit compares expected vs. actual config across all managed tenants",
+    "tools": [
+      "n8n",
+      "Azure",
+      "NinjaOne",
+      "Airtable",
+      "Slack"
+    ],
+    "category": [
+      "infrastructure",
+      "compliance",
+      "ops"
+    ],
+    "status": "catalog_only"
   }
 ]
