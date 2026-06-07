@@ -1,7 +1,7 @@
 [
   {
     "id": "01",
-    "title": "HubSpot → ActiveCampaign Smart Deal Router",
+    "title": "HubSpot â†’ ActiveCampaign Smart Deal Router",
     "desc": "Bi-directional sync with behavior-based deal stage updates",
     "tools": [
       "n8n",
@@ -19,8 +19,8 @@
   },
   {
     "id": "02",
-    "title": "Pipedrive → Zendesk CRM-to-Support Sync",
-    "desc": "Deal closes → auto-create org and contact in Zendesk",
+    "title": "Pipedrive â†’ Zendesk CRM-to-Support Sync",
+    "desc": "Deal closes â†’ auto-create org and contact in Zendesk",
     "tools": [
       "Make.com",
       "Pipedrive",
@@ -37,8 +37,8 @@
   },
   {
     "id": "03",
-    "title": "Close → ClickUp Client Creation",
-    "desc": "CRM deal won → project tasks created automatically",
+    "title": "Close â†’ ClickUp Client Creation",
+    "desc": "CRM deal won â†’ project tasks created automatically",
     "tools": [
       "Make.com",
       "Close CRM",
@@ -72,7 +72,7 @@
   },
   {
     "id": "05",
-    "title": "Close → GHL → Encharge Tag Sync",
+    "title": "Close â†’ GHL â†’ Encharge Tag Sync",
     "desc": "Lifecycle-driven tag management across three platforms",
     "tools": [
       "Make.com",
@@ -125,7 +125,7 @@
   },
   {
     "id": "08",
-    "title": "Google Sheets → DocuSeal: Bulk Form Fill & E-Signature Routing",
+    "title": "Google Sheets â†’ DocuSeal: Bulk Form Fill & E-Signature Routing",
     "desc": "Bulk form fill from Sheets + DocuSeal e-signature routing, fully automated",
     "tools": [
       "Google Sheets",
@@ -178,7 +178,7 @@
   },
   {
     "id": "12",
-    "title": "CRM → Production Sync with Guardrails",
+    "title": "CRM â†’ Production Sync with Guardrails",
     "desc": "Margin validation, labor tracking, change order sync",
     "tools": [
       "Make.com",
@@ -215,7 +215,7 @@
   {
     "id": "14",
     "title": "AI Blog Post Generator",
-    "desc": "Form or Sheet input → polished long-form blog post",
+    "desc": "Form or Sheet input â†’ polished long-form blog post",
     "tools": [
       "Google Sheets",
       "GPT/OpenAI",
@@ -232,7 +232,7 @@
   },
   {
     "id": "15",
-    "title": "CSV Export → AppScript → Sheet Reconciler",
+    "title": "CSV Export â†’ AppScript â†’ Sheet Reconciler",
     "desc": "Export, transform with RegEx, and sync back to Sheets",
     "tools": [
       "Make.com",
@@ -251,8 +251,8 @@
   },
   {
     "id": "16",
-    "title": "Close → AgencyHandy Client Onboarding",
-    "desc": "CRM deal won → client record created in AgencyHandy",
+    "title": "Close â†’ AgencyHandy Client Onboarding",
+    "desc": "CRM deal won â†’ client record created in AgencyHandy",
     "tools": [
       "Make.com",
       "Close CRM",
@@ -286,7 +286,7 @@
   {
     "id": "18",
     "title": "Shopify Matrixify Bulk Update Pipeline",
-    "desc": "Export → enrich → re-import Shopify product data at scale",
+    "desc": "Export â†’ enrich â†’ re-import Shopify product data at scale",
     "tools": [
       "Matrixify",
       "Make.com",
@@ -322,7 +322,7 @@
   {
     "id": "21",
     "title": "AI Demo Video Production Pipeline",
-    "desc": "Raw screen recording → branded video → auto-published to YouTube",
+    "desc": "Raw screen recording â†’ branded video â†’ auto-published to YouTube",
     "tools": [
       "HeyGen",
       "ElevenLabs",
@@ -342,7 +342,7 @@
   },
   {
     "id": "22",
-    "title": "Signal-to-Sale: Call → CRM Pipeline",
+    "title": "Signal-to-Sale: Call â†’ CRM Pipeline",
     "desc": "Inbound call attributed, qualified, and pushed to CRM in under 60 seconds",
     "tools": [
       "n8n",
@@ -361,8 +361,8 @@
   },
   {
     "id": "23",
-    "title": "AI Content Pipeline: Idea → Avatar Video",
-    "desc": "Content brief in → finished avatar video out, zero manual production steps",
+    "title": "AI Content Pipeline: Idea â†’ Avatar Video",
+    "desc": "Content brief in â†’ finished avatar video out, zero manual production steps",
     "tools": [
       "Make.com",
       "HeyGen",
@@ -382,7 +382,7 @@
   },
   {
     "id": "24",
-    "title": "Commission Reconciliation: Multi-Processor → CRM",
+    "title": "Commission Reconciliation: Multi-Processor â†’ CRM",
     "desc": "Heartland, Stripe, and Square payouts reconciled against CRM deals automatically",
     "tools": [
       "n8n",
@@ -421,7 +421,7 @@
   {
     "id": "26",
     "title": "AI Email Triage & Auto-Categorize",
-    "desc": "Inbox zero on autopilot — every email classified, routed, and actioned by AI",
+    "desc": "Inbox zero on autopilot â€” every email classified, routed, and actioned by AI",
     "tools": [
       "n8n",
       "Gmail",
@@ -478,7 +478,7 @@
   {
     "id": "29",
     "title": "Linguist Intake & Auto-Match",
-    "desc": "Translation job in → qualified linguist matched and confirmed in under 5 minutes",
+    "desc": "Translation job in â†’ qualified linguist matched and confirmed in under 5 minutes",
     "tools": [
       "n8n",
       "Airtable",
@@ -516,8 +516,8 @@
   },
   {
     "id": "dax-001",
-    "title": "DAX — AI Agent That Runs Inside Your Microsoft 365 Tenant",
-    "desc": "See DAX draft a compliant client review document in under 15 seconds — entirely inside the firm's own Microsoft 365 tenant. Every tool call logged. No data leaves.",
+    "title": "DAX â€” AI Agent That Runs Inside Your Microsoft 365 Tenant",
+    "desc": "See DAX draft a compliant client review document in under 15 seconds â€” entirely inside the firm's own Microsoft 365 tenant. Every tool call logged. No data leaves.",
     "tools": [
       "Microsoft Copilot Studio",
       "Azure",
@@ -532,6 +532,7 @@
     ],
     "status": "published",
     "youtube_id": "91TocuhmnCc",
-    "youtube_url": "https://youtu.be/91TocuhmnCc"
+    "youtube_url": "https://youtu.be/91TocuhmnCc",
+    "descript_url": "https://share.descript.com/view/rgFDkixlxQP"
   }
 ]
