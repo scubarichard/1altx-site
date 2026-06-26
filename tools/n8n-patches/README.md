@@ -63,6 +63,20 @@ First run prints `Patched 'Build Anthropic Request': N -> M chars`; subsequent r
 
 **Test**: there's no equivalent of 07C's `7c-proposal-prep` webhook for the scorer's `7b-score-now` lane that returns a deterministic body. After patching, watch the next scheduled execution (every 15 min, on the `Every 15 Min (Scoring)` schedule trigger) and confirm new Hot rows carry `client_signal` and `exclusion_gate` in `Scoring Notes` (col AE) when a veto fires.
 
+## patch_disable_auto_pvc2.py
+
+Disconnects the auto-PVC2 trigger downstream of the scoring lane inside `f2RPzoJ2m45Odu4k`. After the patch, the scoring lane (Sonnet 4.6) keeps running every 15 min and writes verdicts to UpWork_Log, but `Score >= 14? -> Trigger PVC2 (wait) -> Trigger 07C` is no longer reachable from `Update Google Sheet` — Nautilus fires PVC2 manually after `rank_top10.py` instead.
+
+**Why this exists**: pre-patch (2026-06-25 and earlier), the pipeline auto-fired PVC2 on every Hot row Sonnet found. That collided with the manual triage flow's cap of 10 submissions (`rank_top10.py`), burned HeyGen credits on rows Richard wouldn't submit, and raced with cross-day dedup against `ProcessedLog`. Post-patch, Sonnet is the single source of truth for scoring; Nautilus owns ranking + PVC2 firing. Goes together with `patch_unified_scorer_prompt_sync.py` to retire `score_rows.py` as the day-to-day triage scorer.
+
+**Run** (idempotent — re-run anytime to restore the disconnected state if anyone re-wires in the UI):
+```bash
+/home/richard/proposal-video-creator/.venv/bin/python3 patch_disable_auto_pvc2.py
+```
+First run prints `Patched: ['Update Google Sheet -> Score >= 14?']`; re-runs print `NO-OP`.
+
+**To revert** (re-enable auto-PVC2): in the n8n UI, drag a connection from `Update Google Sheet` to `Score >= 14?` so both `Prep ProcessedLog Score` and `Score >= 14?` are downstream targets.
+
 ## Cloudflare gotcha
 
 n8n.dakona.net is behind Cloudflare; the default `python-urllib/3.x` User-Agent gets blocked with `error code: 1010`. Always send a browser-like UA on requests from Python scripts.
