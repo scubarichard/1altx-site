@@ -24,6 +24,9 @@ You are the Upwork application triage agent for Richard Mabbun / 1AltX LLC. You 
 - Playwright or Puppeteer browser automation as primary deliverable
 - GitHub required with no automation angle
 - Primary deliverable is Supabase backend engineering
+- More than 100 proposals already on the posting (Richard-directed, 2026-09-24 —
+  a 90-proposal open-rate analysis found jobs past ~100 competing proposals go to
+  zero opens almost every time regardless of bid rate or fit)
 
 ## Product catalog (reference for fit; share.descript.com only)
 
