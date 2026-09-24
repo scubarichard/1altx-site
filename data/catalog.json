@@ -619,5 +619,23 @@
       "ops"
     ],
     "status": "catalog"
+  },
+  {
+    "id": "33",
+    "title": "Luxury Travel Operator — Multi-Channel Lead Follow-Up Engine",
+    "short_desc": "Four intake channels unified into one automated, personalised follow-up engine with a live reply gate",
+    "tools": [
+      "Pipedrive",
+      "Zapier",
+      "Cloudflare Workers"
+    ],
+    "category": [
+      "crm",
+      "email"
+    ],
+    "status": "published",
+    "youtube_id": "6xI7xHBmXEI",
+    "youtube_url": "https://youtu.be/6xI7xHBmXEI",
+    "descript_url": ""
   }
 ]
