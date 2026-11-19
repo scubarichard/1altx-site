@@ -637,5 +637,45 @@
     "youtube_id": "6xI7xHBmXEI",
     "youtube_url": "https://youtu.be/6xI7xHBmXEI",
     "descript_url": ""
+  },
+  {
+    "id": "34",
+    "title": "Secure Cloud Desktops for Regulated Financial Firms",
+    "short_desc": "Fractional CTO method: assess, decide (AVD vs hybrid vs stay on AWS), migrate and operate cloud desktops for small regulated firms",
+    "tools": [
+      "Azure Virtual Desktop",
+      "Microsoft 365",
+      "SharePoint",
+      "Entra ID",
+      "AWS WorkSpaces"
+    ],
+    "category": [
+      "infrastructure",
+      "fcto"
+    ],
+    "status": "published",
+    "youtube_id": "Z6QZhW47WpQ",
+    "youtube_url": "https://youtu.be/Z6QZhW47WpQ",
+    "descript_url": ""
+  },
+  {
+    "id": "35",
+    "title": "Using AI With Client Information, Securely",
+    "short_desc": "Governed AI workspace inside the firm's own Microsoft 365: approved assistant, records, retention and access",
+    "tools": [
+      "Microsoft 365",
+      "Copilot Studio",
+      "SharePoint",
+      "Microsoft Purview",
+      "Teams"
+    ],
+    "category": [
+      "ai",
+      "governance"
+    ],
+    "status": "published",
+    "youtube_id": "zRn4Ncc8WC4",
+    "youtube_url": "https://youtu.be/zRn4Ncc8WC4",
+    "descript_url": ""
   }
 ]
